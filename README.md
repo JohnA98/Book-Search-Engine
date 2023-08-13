@@ -7,7 +7,7 @@ This app is designed as a search engine for books, using Google's api. This app 
 ## Installation
 
 This app can be found deployed on Heroku.
-[Link]()
+[Link](https://git.heroku.com/book-search-engine-awesome.git)
 ## Usage
 
 To use this application, you must first signup and then login. From there you can enter a search term in the input field and you will be blessed with a list of results featuring book titles, authors, descriptions, and more. You can also save your books by clicking on the save button on a book.
